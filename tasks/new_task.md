@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-HYUnxDZqVmYQki1lCWl5xmoQ.png?st=2024-11-04T16%3A02%3A28Z&se=2024-11-04T18%3A02%3A28Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-04T01%3A54%3A30Z&ske=2024-11-05T01%3A54%3A30Z&sks=b&skv=2024-08-04&sig=ENXB5eZK5nECb5CoIm5omrf5plJXhHFv8OQiThGBrCA%3D)
+
 ## 🌲 Survive the Wilderness: A Forest Survival Game 🌲
 
 Welcome to an engaging adventure where you will create a simple yet captivating game set in a mysterious forest. Your challenge is to survive the wilderness by navigating through various terrains, encountering different animals, and making strategic decisions. This task aims to integrate file handling, class design, and creative programming concepts to build a dynamic game.
