@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-Rb7UkFQ7rDsMeJfs1azZTwnd.png?st=2024-11-04T16%3A00%3A42Z&se=2024-11-04T18%3A00%3A42Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-04T01%3A38%3A29Z&ske=2024-11-05T01%3A38%3A29Z&sks=b&skv=2024-08-04&sig=xMSK/PDqenDzY49XP1XTfC4WiacdrJe7XD8e5UuWf18%3D)
+
 ### 🏆 Project: Create Your Own Pokémon-Inspired Game
 
 Welcome to an exciting opportunity to harness your programming skills and creativity to design a Pokémon-inspired game. This task will guide you through understanding core programming concepts such as file handling, class design, and creative programming to build a small-scale game application.
