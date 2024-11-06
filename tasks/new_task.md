@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-xKouYT1oFnqKSW0D055WEq8W.png?st=2024-11-06T07%3A06%3A36Z&se=2024-11-06T09%3A06%3A36Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T20%3A10%3A55Z&ske=2024-11-06T20%3A10%3A55Z&sks=b&skv=2024-08-04&sig=NW1fCqN6YlZJbJQ7wuI8BZiBLDxLxPRWruqhxTpKObA%3D)
+
 # 🕹 Task: Create a Text-Based Adventure Game 🌟
 
 In this task, you'll be designing and implementing a simple text-based adventure game that embodies creativity and object-oriented programming principles. Your game will involve navigating through different rooms, encountering monsters and nice people, and will be powered by data read from files. The challenge will enhance your understanding of reading and instantiating objects from file data, designing cohesive classes, and writing creative code.
