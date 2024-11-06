@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-L5Xv5l3f84fO5aXXmeW7ImBV.png?st=2024-11-06T07%3A25%3A28Z&se=2024-11-06T09%3A25%3A28Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T19%3A16%3A40Z&ske=2024-11-06T19%3A16%3A40Z&sks=b&skv=2024-08-04&sig=BCGu%2Br1ue/jlTXf6D8FPMqIbnZZ9MAZF2pXsyAtouAc%3D)
+
 # 🎮 Adventure Game Development Task
 
 ## 🚀 Introduction
