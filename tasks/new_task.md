@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-6samw7KhQld5ibbVkNnjxNz6.png?st=2024-11-06T07%3A01%3A55Z&se=2024-11-06T09%3A01%3A55Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T19%3A31%3A55Z&ske=2024-11-06T19%3A31%3A55Z&sks=b&skv=2024-08-04&sig=ET031OKNb2%2B5mDspQT1FaLebEWDB0Mk2oyLRyIg1mSk%3D)
+
 ## 🎮 Text Adventure Game: Encounters in the Mystic Maze
 
 Welcome to this exciting programming task where you will create a text-based adventure game set in the Mystic Maze. Your journey involves exploring rooms, where you'll randomly encounter monsters or friendly villagers. This task will enhance your skills in reading data from files, designing object-oriented programs, and exercising your creativity in problem-solving.
