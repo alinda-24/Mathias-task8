@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-oVMHLVw5ZYlumFatjJHCPxcc.png?st=2024-11-06T06%3A54%3A06Z&se=2024-11-06T08%3A54%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T20%3A18%3A06Z&ske=2024-11-06T20%3A18%3A06Z&sks=b&skv=2024-08-04&sig=Wv/lhxwaHE0FV0o9GkSoE2GGjYLbAuKK1kDqP0DN3OY%3D)
+
 ## 🎮 Text-Based Adventure Game - Project Task
 
 Welcome to the Text-Based Adventure Game project! In this task, you'll use Java to create your own adventure game. Along the way, you'll learn to use data from files to instantiate objects, improve your class design skills, and enhance your creativity in programming. Ready to embark on this coding adventure? Let's get started!
