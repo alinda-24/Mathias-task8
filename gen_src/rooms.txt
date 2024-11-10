@@ -1,0 +1,7 @@
+Room:Entrance:Welcome to the entrance of the forest
+Room:Cabin:Small Cozy cabin
+Room:Lake:A freeeeeezy cold dip maybe?
+Exit:Entrance:North:Cabin
+Exit:Entrance:South:Lake
+Exit:Cabin:South:Entrance
+Exit:Lake:North:Entrance
