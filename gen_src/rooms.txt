@@ -1,0 +1,27 @@
+Room:Entrance:Welcome to the entrance of the forest.
+Room:Cabin:A small Cozy cabin.
+Room:Lake:A freezy cold pool of water.
+Room:Field:A green big field with sheeps.
+Room:Swamp:A nice little swamp that you might recognize.
+Room:Butcher:A horrible smelling house.
+Exit:Entrance:North:Cabin
+Exit:Entrance:South:Lake
+Exit:Cabin:South:Entrance
+Exit:Lake:North:Entrance:
+Exit:Cabin:West:Field
+Exit:Field:South:Swamp
+Exit:Field:East:Cabin
+Exit:Swamp:North:Field
+Exit:Butcher:West:Lake
+Exit:Lake:East:Butcher
+Character:Guide Simon:Entrance:helpful figure that likes music.:Welcome to the cave! We will, we will ROCK YOU!:1000:100000:3
+Character:Fisherman Aiden:Lake:grumpy old fisherman.:What are you doing here!? Get away from my lake!:3:2:0
+Character:Lumberjack Chris:Cabin:strong handsome man.:Great to see a strong individual here.:4:-2:1
+Character:Sheep Cherry:Field:white fluffy sheep.:BAAAA!:2:1:0
+Character:Shrek:Swamp:green beautiful figure.:Hey now, you're an all star!:5:-1:2
+Character:Butcher Billy:Butcher:big bloody muscular figure.:Are you here to play!?:6:2:1
+Item:The golden haysack:Field:2
+Item:Gingerbread:Swamp:-1
+Item:Lumberjack's axe:Cabin:2
+Item:Fishnet:Lake:-2
+Item:Cow head:Butcher:0
